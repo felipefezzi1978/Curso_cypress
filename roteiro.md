@@ -81,3 +81,11 @@ Visite a página principal do AdoPet e verifique se o texto “Quem ama adota!�
 Visite a página principal do AdoPet e verifique se o texto “Adotar pode mudar uma vida. Que tal buscar seu novo melhor amigo hoje? Vem com a gente!” está presente no html.
 Teste o login com um fluxo diferente: Visite a página principal do Adopet, clique no botão de ícone de mensagem no header e escreva nome e senha válidos na página de login.
 
+
+--------------------------------------------------------
+
+Exercícios
+Rode seus testes em modo headless;
+Crie relatórios em json;
+Grave os testes no Cypress Cloud com o recurso de record;
+
