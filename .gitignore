@@ -18,3 +18,5 @@ cypress/screenshots/
 
 # VS Code
 .vscode/
+
+cypress.env.json
